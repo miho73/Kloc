@@ -1,0 +1,7 @@
+﻿"C:\Users\hyunc\source\repos\Kloc\Kloc\obj\x86\Release\ilc\in\Kloc.exe"
+/Lib:"C:\Users\hyunc\source\repos\Kloc\Kloc\obj\x86\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\x86\ilc\lib\Private"
+/WinMD:"C:\Users\hyunc\source\repos\Kloc\Kloc\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"c79bf6d1-0173-4739-aaa6-3dc92146e536","Id":"bbe8e8d5-c556-423c-82af-fbed2b4d4ea7","ProcessStartTime":637455482119803699}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\LibraryXML"
+/RunOnlyPreDR
